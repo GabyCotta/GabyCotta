@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40e0d0&size=30&center=true&vCenter=true&width=600&lines=OLÁ,+SOU+GABRIELLA+COTTA+X%29)](https://git.io/typing-svg)
 ##
 
-- 🐸 No momento trabalho com SQL
+- 🐸 Trabalhos com SQL
 - 👨‍💻 E estudando Java
 - 👩‍🎓 Sou graduanda de Sistema de Informação
 - 😄 Pronomes: ela/dela
